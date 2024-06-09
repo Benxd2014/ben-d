@@ -6,7 +6,9 @@
         "radio": "*",
         "microphone": "*",
         "audio-recording": "*",
-        "radio-broadcast": "*"
+        "radio-broadcast": "*",
+        "pxt-kitronik-servo-lite": "github:kitronikltd/pxt-kitronik-servo-lite#v1.0.9",
+        "colorbit": "github:51bit/colorbit#v0.1.4"
     },
     "files": [
         "main.blocks",
